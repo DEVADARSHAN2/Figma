@@ -76,7 +76,7 @@ Figma
 </html>
 ```
 ## OUTPUT:
-
+![Screenshot 2023-11-16 132703](https://github.com/DEVADARSHAN2/Figma/assets/119432150/252fd9e3-8a57-466f-bab2-59ef231df81d)
 
 ## RESULT:
 The program to design, develop and deploy a web application for event registration is completed successfully.
